@@ -28,6 +28,8 @@ cd blog
 
 ```
 npm install
+或
+yarn
 ```
 
 * 打包生成 (已经打包dist目录，可以省略)
